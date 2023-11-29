@@ -1,4 +1,4 @@
-package testclub;
+package testclub.Bai2;
 
 public class Address {
     private String district;

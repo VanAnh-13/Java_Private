@@ -1,4 +1,4 @@
-package testclub;
+package testclub.Bai2;
 
 public abstract class Person {
     private static Integer id = 0;

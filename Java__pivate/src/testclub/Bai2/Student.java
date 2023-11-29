@@ -1,4 +1,4 @@
-package testclub;
+package testclub.Bai2;
 
 public class Student extends Person {
     private Double score;

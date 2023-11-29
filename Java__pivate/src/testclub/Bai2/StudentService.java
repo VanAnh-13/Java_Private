@@ -1,4 +1,4 @@
-package testclub;
+package testclub.Bai2;
 
 public interface StudentService {
     void addStudent(Student student);
